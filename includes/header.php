@@ -64,18 +64,18 @@
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="../logout.php">
+                            <a class="nav-link" href="./logout.php">
                                 <i class="fas fa-sign-out-alt"></i> Logout
                             </a>
                         </li>
                     <?php else: ?>
                         <li class="nav-item">
-                            <a class="nav-link" href="/login.php">
+                            <a class="nav-link" href="./login.php">
                                 <i class="fas fa-sign-in-alt"></i> Login
                             </a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/register.php">
+                            <a class="nav-link" href="./register.php">
                                 <i class="fas fa-user-plus"></i> Register
                             </a>
                         </li>
